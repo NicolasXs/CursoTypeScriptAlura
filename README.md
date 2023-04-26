@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 TypeScript parte 1: evoluindo seu JavaScript
 
-- [Acesse o projeto finalizado, online](https://nicolasxs.github.io/Music-Player/)
+- [Acesse o projeto finalizado, online](https://nicolasxs.github.io/CursoTypeScriptAlura/dist/index.html)
 
 - [Link do curso](https://cursos.alura.com.br/course/typescript-evoluindo-javascript)
 
